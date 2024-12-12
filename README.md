@@ -1,4 +1,4 @@
-Machine Learning
+# Machine Learning
 
 This project is an assignment designed to enhance your understanding of Neural Networks and their implementation using NumPy and PyTorch. It involves implementing and training models for handwritten digit recognition (using the MNIST dataset) and clothing classification (using the Fashion-MNIST dataset).
 
